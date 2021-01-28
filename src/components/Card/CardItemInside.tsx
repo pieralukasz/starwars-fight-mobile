@@ -27,6 +27,7 @@ const ItemInsideView = styled(View)`
   width: 100%;
   justify-content: space-evenly;
   align-items: center;
+
 `
 
 const TypeText = styled(Text)`
