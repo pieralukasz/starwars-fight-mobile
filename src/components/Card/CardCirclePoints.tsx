@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
-import { Text, View } from "react-native";
+import { Text, View, Animated } from "react-native";
 
 interface CirclePointsType {
   position: string;
